@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    }
+.bar-graph {
+    display: flex;
+}
+.graph-bar-container {
+    margin-left: 20px;
+}
+.title {
+    font-family: 'Satisfy', cursive;
+    margin-top: 50px;
+}
+
